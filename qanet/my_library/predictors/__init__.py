@@ -1,0 +1,1 @@
+from my_library.predictors.qanet_predictor import QaNetPredictor
