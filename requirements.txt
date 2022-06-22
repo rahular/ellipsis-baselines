@@ -9,7 +9,7 @@ matplotlib==3.0.2
 pyhocon==0.3.51
 tensorflow_gpu==1.15.2
 apex==0.1
-numpy==1.17.0
+numpy==1.22.0
 termcolor==1.1.0
 torch==1.2.0
 overrides==2.8.0
